@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#div_logo {
+    max-width: 350px;
+    position: absolute;
+    left: 50%;
+    top: 20px;
+    transform: translate(-50%); 
+}
+
+#Logo_Senai {
+    width: 100%;
+}
+
+
